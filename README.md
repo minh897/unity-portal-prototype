@@ -1,6 +1,8 @@
 # Portal Prototype
 An example of replicating portal visual effects in Unity
 
+[Playable Demo (Unity Play)](https://play.unity.com/en/games/19b4ffbd-eac9-443e-b5ca-2dd2c6b2840c/portal-prototype)
+
 ## Overview
 This is just a small experimental project that I've done in my free time. The goal is replicating portal visuals with a basic teleportation logic in Unity Engine. The techniques I used to achieve this include: stencil buffer, screenspace texture sampling, oblique projection and local to world space transformation.
 
